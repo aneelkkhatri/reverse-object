@@ -1,0 +1,23 @@
+{
+  "name": "reverse-object",
+  "version": "1.0.0",
+  "description": "\"A utility function to create an object with keys as original objects values, and values as the original object's respective keys.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aneelkkhatri/reverse-object.git"
+  },
+  "keywords": [
+    "reverse",
+    "object"
+  ],
+  "author": "aneel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aneelkkhatri/reverse-object/issues"
+  },
+  "homepage": "https://github.com/aneelkkhatri/reverse-object#readme"
+}

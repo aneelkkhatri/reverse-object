@@ -5,6 +5,7 @@
  * and values as the original object's respective keys.
  *
  * @param {Object}
+ * @param {boolean}
  * @return {Object}
  */
 

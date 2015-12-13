@@ -4,7 +4,9 @@ A utility function to create an object with keys as original objects values, and
 
 ## Install
 
-    npm install reverse-object
+```sh
+$ npm install --save reverse-object
+```
 
 ## Usage
 
